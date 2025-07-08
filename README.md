@@ -79,4 +79,4 @@ This project is open-source and available under the [MIT License](https://openso
 
 ## Contact
 
-For any questions or suggestions, please contact : https://github.com/araghavan22.
+For any questions or suggestions, please contact : https://www.linkedin.com/in/abha-raghavan/.
