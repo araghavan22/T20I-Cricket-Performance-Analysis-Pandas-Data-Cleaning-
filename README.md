@@ -1,6 +1,6 @@
 # Cricket Stats Cleanup: A Pandas Data Wrangling Project
 
-![Visualizing the power of data analysis in cricket performance]()
+![Visualizing the power of data analysis in cricket performance](https://github.com/araghavan22/T20I-Cricket-Performance-Analysis-Pandas-Data-Cleaning-/blob/main/Cricket_Data_Analysis_Using_Python.png)
 
 This repository contains a Jupyter Notebook (`Python_Pandas_Data_Cleaning_Cricket_Data.ipynb`) that demonstrates various data cleaning and analysis techniques using the Pandas library in Python. The project focuses on a dataset of cricket player statistics, specifically "Most runs in T20Is".
 
